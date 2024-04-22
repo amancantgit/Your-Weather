@@ -14,5 +14,10 @@ Your Weather provides two sections: "Your Weather" for current location details 
 HTML/CSS & Vanilla JavaScript
 
 ## Getting Started
-1. Clone the repository to your local machine.
+To get a local copy of the project up and running, follow these simple steps:
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-username/your-project.git
+
 2. Run the project locally.
